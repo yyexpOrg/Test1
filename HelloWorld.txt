@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is my first file on GitHub
 Add a new line from HelloBranch
 andd another line by YinLiang
@@ -12,3 +13,11 @@ insert via web
 >>>>>>> b9e097c5ff2ccc167183894308e300c5016bf08d
 =======
 >>>>>>> 684c4d3559311f18c3a74d91c328e2582184e74d
+=======
+This is my first file on GitHub
+Add a new line from HelloBranch
+andd another line by YinLiang
+
+add a new line
+create a new branch
+>>>>>>> v1.1

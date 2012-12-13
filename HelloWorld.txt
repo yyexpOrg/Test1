@@ -1,6 +1,11 @@
 This is my first file on GitHub
 Add a new line from HelloBranch
 andd another line by YinLiang
+<<<<<<< HEAD
 
 add a new line
 comment by master
+=======
+add a new line
+insert via web
+>>>>>>> b9e097c5ff2ccc167183894308e300c5016bf08d

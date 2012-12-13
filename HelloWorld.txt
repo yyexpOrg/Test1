@@ -7,5 +7,8 @@ add a new line
 comment by master
 =======
 add a new line
+<<<<<<< HEAD
 insert via web
 >>>>>>> b9e097c5ff2ccc167183894308e300c5016bf08d
+=======
+>>>>>>> 684c4d3559311f18c3a74d91c328e2582184e74d
